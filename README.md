@@ -2,9 +2,9 @@
 
 ### Frontend React Developer
 
-I build responsive, accessible web experiences and digital products with a focus on clean structure, reusable components, and thoughtful UI.
+I build responsive, accessible web experiences and digital products with a focus on clean structure, reusable components, and thoughtful UI. 
 
-Currently building **Lumina** — a complete React portfolio system designed around structure, storytelling, and a strong online presence.
+I developed **Lumina**, a complete React portfolio system designed around structure, storytelling, and a strong online presence.**[See Lumina →](https://lumina-portfolio-system.vercel.app/)**
 
 ---
 
@@ -15,11 +15,11 @@ Currently building **Lumina** — a complete React portfolio system designed aro
 
 ---
 
-### ⚡ Featured Project
+### ⚡ My Product
 
 ## Lumina
 
-**A complete React portfolio system — not just a template.**
+**A complete React portfolio system, no design, backend, or setup stress.**
 
 Built with:
 
