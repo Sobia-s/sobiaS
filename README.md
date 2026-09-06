@@ -1,8 +1,11 @@
 <div align="center">
 
-# SOBIA SOOMRO
+# Hi and Welcome!👋
 
-### Frontend React Developer
+### I'm Sobia: Frontend React Developer, product builder, and creator of Lumina. 
+
+#### 💻 I build responsive, accessible web experiences with React & JavaScript.
+### 🚀 Founder & Lead Developer of Lumina, a complete React portfolio system.
 
 **Building thoughtful interfaces, reusable systems, and digital experiences.**
 
@@ -12,18 +15,6 @@
 
 </div>
 
----
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  SOBIA / FRONTEND                                           │
-│                                                             │
-│  I build responsive, accessible web experiences and         │
-│  digital products with a focus on clean structure,          │
-│  reusable components, and thoughtful UI.                    │
-│                                                             │
-│  Currently building → LUMINA                                │
-└─────────────────────────────────────────────────────────────┘
 
 
 
