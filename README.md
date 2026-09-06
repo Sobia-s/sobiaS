@@ -21,6 +21,14 @@
 - Designed reusable, config-driven components and responsive UI
 - Built and launched it **end-to-end, from idea to production**
 
+---
+
+## 🛠️ Tools & Tech
+
+---
+
+## 🌍 Find Me Online
+
 
 </div>
 
