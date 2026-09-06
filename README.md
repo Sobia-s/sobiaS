@@ -43,20 +43,7 @@ Built with:
 
 ---
 
-### Selected Work
-
-**E-Commerce Platform**  
-React · Product catalog · Cart · Checkout
-
-**Table Reservation System**  
-React · Booking flow · Responsive UI
-
-**Lumina Landing Page**  
-HTML · CSS · Responsive design
-
----
-
-### Find Me Online
+### Connect with me
 
 **[Portfolio](https://sobia-portfolio.netlify.app/)** ·
 **[LinkedIn](https://www.linkedin.com/in/sobiasoomro/)** ·
