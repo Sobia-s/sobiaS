@@ -11,6 +11,16 @@
 🏅 Holder of 10 industry certifications (Frontend development+, JavaScript Essentials+, and more)
 🌐 Focused on **frontend development, digital products, and strong online presence**
 
+---
+
+## 🚀 Lumina
+
+🎯 My independent React portfolio system:
+
+- Built **Lumina**, a complete portfolio system focused on structure, storytelling, and online presence
+- Designed reusable, config-driven components and responsive UI
+- Built and launched it **end-to-end, from idea to production**
+
 
 </div>
 
